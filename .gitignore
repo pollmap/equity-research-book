@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Word temp files
+~$*.docx
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+/build/
+/dist/
